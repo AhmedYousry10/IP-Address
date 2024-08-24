@@ -31,7 +31,7 @@ This is a simple HTML project that fetches and displays the user's public IP add
 ## Example Output
 
 Your public IP address is : 123.45.67.89
-
+```json
 {
   "ip": "123.45.67.89",
   "network": "123.45.16.0/20",
@@ -61,10 +61,11 @@ Your public IP address is : 123.45.67.89
   "asn": "AS8452",
   "org": "TE Data"
 }
+```
 
 ## Developer Info
 
-Name : Ahmed Yousry Helal
-Email : ahmedu3helal@gmail.com
-Linkedin : https://www.linkedin.com/in/ahmed-yousry-helal/
-Phone : +201007458070
+- Name : Ahmed Yousry Helal
+- Email : ahmedu3helal@gmail.com
+- Linkedin : https://www.linkedin.com/in/ahmed-yousry-helal/
+- Phone : +201007458070
