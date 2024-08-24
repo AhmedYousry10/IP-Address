@@ -1,6 +1,7 @@
 const pElement = document.querySelector('p');
 const preElement = document.querySelector("pre");
 pElement.innerHTML = "Loading...";
+preElement.innerHTML = "Loading...";
 
 // get the public IP address
 async function getIp() {
